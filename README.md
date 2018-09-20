@@ -1,0 +1,2 @@
+# Identificador-de-itens
+Projeto de IDENTIFICAÇÃO AUTOMATIZADA DA LOCALIZAÇÃO DE ITENS EM ESTOQUE
